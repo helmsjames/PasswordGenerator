@@ -1,9 +1,7 @@
 # PasswordGenerator
 # 03 JavaScript: Password Generator
 
-HELP NEEDED!!! This is by far the most frustrating of all exercises because I have a rough working knowledge of how to write the psuedo code below, but when it comes to translating into actual Javascript code I don't seem to know what to do, from structuring the code to properly writing it using the correct syntax, how functions are used within the code, etc. Help is needed and any is appreciated.
-
-
+ I watched several videos and finally got this password generator to work.  This is by far the most frustrating of all exercises because I have a rough working knowledge of how to write the psuedo code below, but when it comes to translating into actual Javascript code I don't seem to know what to do, from structuring the code to properly writing it using the correct syntax, how functions are used within the code, etc. 
 
 
 ------------------------------------------------------------------------
@@ -35,8 +33,8 @@ generateBtn (click only)
     5-numbers
       it checks to see if I want to use numbers
 
-    Based on my responses to the above questions,   
-var password
+    Based on my responses to the above questions, generates the password  
+
 
 ```
 GIVEN I need a new, secure password
