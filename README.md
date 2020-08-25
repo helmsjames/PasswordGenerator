@@ -57,6 +57,16 @@ THEN the password is either displayed in an alert or written to the page
 *create temporarily write to the page what the password was that was genergated
 ```
 
+## Link to Deployed App
+https://helmsjames.github.io/User-Directory/
+
+## GitHub Repo:
+https://github.com/helmsjames/User-Directory 
+
+## Link to Portfolio
+
+https://github.com/helmsjames
+ 
 The following image demonstrates the application functionality:
 
 ![password generator demo](./assets/PasswordGenerator.png)
