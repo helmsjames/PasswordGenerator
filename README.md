@@ -1,13 +1,7 @@
 # PasswordGenerator
 # 03 JavaScript: Password Generator
 
- I watched several videos and finally got this password generator to work.  This is by far the most frustrating of all exercises because I have a rough working knowledge of how to write the psuedo code below, but when it comes to translating into actual Javascript code I don't seem to know what to do, from structuring the code to properly writing it using the correct syntax, how functions are used within the code, etc. 
-
-
-------------------------------------------------------------------------
 Create an application that generates a random password based on user-selected criteria. This app will run in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code. It will also feature a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
-
-If you are unfamiliar with special characters, take a look at [some examples](https://www.owasp.org/index.php/Password_special_characters).
 
 ## User Story
 
@@ -67,13 +61,3 @@ The following image demonstrates the application functionality:
 
 ![password generator demo](./Assets/03-javascript-homework-demo.png)
 
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
