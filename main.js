@@ -72,5 +72,3 @@ function generateCharacterSetArray(useUpper, useLower, useSymbols, useNumbers){
 }
 
 
-// all of the above code is what Dane covered at the end of class Friday. I'm clueless on what to do next as I have written and tried various code snippets with none of them working, so I need help, please!
-
